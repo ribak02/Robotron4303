@@ -1,6 +1,8 @@
 # Robotron 4303
 # Design and Implementation
 
+![robotron](https://github.com/user-attachments/assets/2e0501a0-d4fb-419f-8b3f-6e9ad27074fd)
+
 ## 1. Control Scheme
 - **Mouse**: Aim
 - **Spacebar**: Shoot
